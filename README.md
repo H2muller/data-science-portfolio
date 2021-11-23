@@ -1,3 +1,5 @@
-# data-science-portfolio
+# Data science portfolio
 
-A portfolio including some of the Data Science projects I have worked on.
+A collection of selected data science projects to demonstrate skill sets, knowledge, and solutions I am experienced with or find interesting
+
+
