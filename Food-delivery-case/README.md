@@ -3,7 +3,7 @@
 ## Background
 This is the story of a family owned, small restaurant chain that specializes in Swiss-style stuffed potato Rosti. Originally founded in 1978, this chain is recognized regionally for its quality and customer service, and initiated its expansion process in the year 2000. Besides its high quality food, the chain also has a reputation for its welcoming European setting.
 
-This case takes place in the year 2015, when the restaurant chain consisted of the main branch and four additional branches accross different regions of NYC. The main branch is located in the heart of Manhattan, and serves the customers in the center of the city. The four additional branches are located in the boroughs of Bronx, Brooklyn, Queens, and Staten Island.
+This case takes place in the year 2015, when the restaurant chain consisted of the main branch and three additional branches accross different regions of NYC. The main branch is located in the heart of Manhattan, and serves the customers in the center of the city. The additional branches are located in the boroughs of Brooklyn, Queens, and Staten Island.
 
 Every year, the restaurant competes for the NYC small business award, and the chain is traditionally ranked among the top 5 in the city.
 
