@@ -1,0 +1,13 @@
+Parameter	Satisfaction	HQ	Leste	Oeste	Norte
+Service Quality	Excellent	85	45	70	55
+Service Quality	Average	10	35	20	35
+Service Quality	Poor	5	20	10	10
+Order to table time	Excellent	80	50	80	80
+Order to table time	Average	10	30	10	10
+Order to table time	Poor	10	20	10	10
+Food Quality	Excellent	60	60	80	80
+Food Quality	Average	30	30	10	10
+Food Quality	Poor	10	10	10	10
+Delivery time	Excellent	20	40	65	65
+Delivery time	Average	20	30	25	25
+Delivery time	Poor	60	30	10	10
